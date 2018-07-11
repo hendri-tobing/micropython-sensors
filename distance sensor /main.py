@@ -26,6 +26,3 @@ while True:
     distance = check_distance()
     sleep_ms(500)
     led.value(0)
-
-if __name__ == "__main__":
-    main()
