@@ -1,0 +1,1 @@
+pindoor=0 #PIN D3
